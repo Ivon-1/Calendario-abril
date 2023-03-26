@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+    margin: auto;
+    padding: 2em;
+    border: 2px solid black;
+    background-image: url(temp.jpg);
+    background-size:contain;
+    color: white;
+    font-size: 35px;
+}
+
+body {
+    text-align: center;
+    background-color: #efefef;
+}
+table{
+    text-align: center;
+    border: 3px solid black;
+    border-collapse: collapse; 
+    font-size: 30px;
+    margin: auto;
+    margin-top: 10px;  
+}
+tr, td{
+    border: 3px solid black;
+    text-align: center;
+    width: 200px;
+}
+footer {
+    padding: 2em;
+    border: 2px solid black;
+    margin: auto;
+    margin-top: 10px;   
+    font-size: 30px;
+    background-image: url(temp.jpg);
+    background-size: contain;
+    font-size: 45px;
+}
